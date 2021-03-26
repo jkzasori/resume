@@ -99,10 +99,11 @@ educationcomplete:
     time: 2020 October
     details: |
 
-  - degree: Diplomado en Competencias TIC en la línea temática de Levantamiento de información y georreferenciación.
-    university: Corporación Unificada Nacional de Educación Superior CUN y COLNODO en el marco de un proyecto apoyado por Google.
+  - degree: Diplomado en Competencias TIC.
+      Information gathering and georeferencing.
+    university: Corporación Unificada Nacional de Educación Superior CUN y COLNODO supported by Google.
     time: 2018 July - 2018 October
-    details: |
+    details: Línea temática de Levantamiento de información y georreferenciación.
 
   - degree: System Engineer
     university: Universidad de Cartagena
