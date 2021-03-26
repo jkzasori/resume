@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: José A. Támara Fuentes # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
+  email: jkzasori@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: https://www.linkedin.com/in/jkzasori/
+  github: jkzasori
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: "@BrightCoders"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,13 +27,10 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -46,71 +43,103 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Empathy
+      link: # dejar en blanco
+
+    - item: Patience
+      link: # dejar en blanco
+
+    - item: Open-mindedness and adaptability
+      link: # dejar en blanco
+
+    - item: Teamwork and collaboration
+      link: # dejar en blanco
+
+    - item: Accountability, humility, and humbleness
+      link: # dejar en blanco
+
+    - item: Confidence
+      link: # dejar en blanco
+
+    - item: Creativity,and problem-solving
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a System Engineer with a couples of years working like Developer.I realy like programaming and I am fascinated by all kind of Frontend either movil or web. I am a proactive, diligent and responsible person with a great disposition for teamwork. 
+
+    I'm also book lover (poetry, novels); I mean, i like to read and write these kind of text.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Applied React Native Mobile Developer at BrightCoders
+    university: BrightCoders Academy
+    time: 2021 March - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Applied React Native Mobile Developer at Platzi
+    university: BrightCoders Academy
+    time: Current
     details: |
-      Unsupervised deep learning for automatic behavior analysis
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
+  - degree: Applied Backend Developer with Python and Django at Platzi
+    university: BrightCoders Academy
+    time: Current
     details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
 
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
+  - degree: Applied React Developer at Platzi
+    university: Platzi
+    time: Current
     details: |
-      Master degree in Computer Engineering
+
+  - degree: Frontend architecture at Platzi
+    university: Platzi
+    time: 2020 October
+    details: |
+
+  - degree: Diplomado en Competencias TIC en la línea temática de Levantamiento de información y georreferenciación.
+    university: Corporación Unificada Nacional de Educación Superior CUN y COLNODO en el marco de un proyecto apoyado por Google.
+    time: 2018 July - 2018 October
+    details: |
+
+  - degree: System Engineer
+    university: Universidad de Cartagena
+    time: 2018 Oct
+    details: |
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Frontend Developer
+    time: 2021 - Present
+    company: NOKIA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      In this company currently I have been working like Frontend developer with React And Redux responsible for maintenance, design, layout and programming of websites, including the entire process of service integration with the Backend.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Frontend Developer
+    time: 2019 - Present
+    company: LSV TECH SAS
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      In this company currently I have been working like Frontend developer with Jinja, Angular, React And Redux responsible for maintenance, design, layout and programming of websites, including the entire process of service integration with the Backend.
+
+  - role: Web Developer
+    time: November 2018 – March 2019
+    company: SUPER CALL CENTER
+    details: |
+      In this periot of time I worked like administrator of digital sites, responsible for maintenance, design, layout and programming of websites in PHP.
+
+  - role: Web Developer
+    time: August 2017 - September 2018
+    company: Working like freelance
+    details: |
+      In this periot of time I worked like freelance in diferent projects like administrator of digital sites, responsible for maintenance, design, layout and programming of websites.
+
+  - role: Web Developer
+    time: April 2017 - July 2017
+    company: SIAECO
+    details: |
+      In this periot of time I worked like administrator of digital sites, responsible for maintenance, design, layout and programming of websites in PHP.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -123,22 +152,67 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
-
-    - name: PyTorch
       level: 40%
 
-    - name: Tensorflow
+    - name: PHP
       level: 60%
 
-    - name: Caffe
+    - name: Node
+      level: 60%
+
+    - name: DOOPHP
+      level: 60%
+
+    - name: Selenium
+      level: 40%
+
+    - name: NoSQL
+      level: 60%
+
+    - name: SQL
+      level: 60%
+
+    - name: ReactNative
+      level: 40%
+
+    - name: React
       level: 80%
 
-    - name: Matlab
+    - name: Redux
+      level: 80%
+
+    - name: Angular
+      level: 60%
+
+    - name: FireBase
+      level: 40%
+
+    - name: CSS
+      level: 80%
+
+    - name: SASS
+      level: 80%
+
+    - name: LESS
+      level: 80%
+
+    - name: STYLUS
+      level: 80%
+
+    - name: PUG
+      level: 40%
+
+    - name: HTML
       level: 100%
 
-    - name: C/C++
-      level: 40%
+    - name: JS
+      level: 80%
+
+    - name: Jquery
+      level: 80%
+
+    - name: Git/GitHub
+      level: 80%
 
 # NO MODIFICAR
 footer: >
