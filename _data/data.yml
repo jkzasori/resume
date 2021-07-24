@@ -146,9 +146,6 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: PHP
-      level: 40%
-
     - name: Node
       level: 60%
 
@@ -202,6 +199,9 @@ skills:
 
     - name: Git/GitHub
       level: 80%
+
+    - name: PHP
+      level: 40%
 
 # NO MODIFICAR
 footer: >
