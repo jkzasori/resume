@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B2 - APTIS # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -74,24 +74,19 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied React Native Mobile Developer at BrightCoders
+  - degree: React Native Mobile Developer at BrightCoders
     university: BrightCoders Academy
-    time: 2021 March - current
+    time: 2021 March - 2021 June
     details: |
 
-  - degree: Applied React Native Mobile Developer at Platzi
+  - degree: React Native Mobile Developer at Platzi
     university: BrightCoders Academy
-    time: Current
+    time: 2021 June
     details: |
 
-  - degree: Applied Backend Developer with Python and Django at Platzi
-    university: BrightCoders Academy
-    time: Current
-    details: |
-
-  - degree: Applied React Developer at Platzi
+  - degree: React Developer at Platzi
     university: Platzi
-    time: Current
+    time: 2021 June
     details: |
 
   - degree: Frontend architecture at Platzi
@@ -106,19 +101,19 @@ educationcomplete:
 
   - degree: System Engineer
     university: Universidad de Cartagena
-    time: 2018 Oct
+    time: 2018 October
     details: |
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Frontend Developer
-    time: 2021 - Present
+    time: January 2021 - Present
     company: NOKIA
     details: |
       In this company currently I have been working like Frontend developer with React And Redux responsible for maintenance, design, layout and programming of websites, including the entire process of service integration with the Backend.
 
   - role: Frontend Developer
-    time: 2019 - Present
+    time: March 2019 - Present
     company: LSV TECH SAS
     details: |
       In this company currently I have been working like Frontend developer with Jinja, Angular, React And Redux responsible for maintenance, design, layout and programming of websites, including the entire process of service integration with the Backend.
@@ -151,20 +146,14 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 40%
-
     - name: PHP
-      level: 60%
+      level: 40%
 
     - name: Node
       level: 60%
 
-    - name: DOOPHP
-      level: 60%
-
-    - name: Selenium
-      level: 40%
+    - name: Express
+      level: 55%
 
     - name: NoSQL
       level: 60%
@@ -173,7 +162,7 @@ skills:
       level: 60%
 
     - name: ReactNative
-      level: 40%
+      level: 70%
 
     - name: React
       level: 80%
@@ -182,7 +171,7 @@ skills:
       level: 80%
 
     - name: Angular
-      level: 60%
+      level: 55%
 
     - name: FireBase
       level: 40%
