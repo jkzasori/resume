@@ -7,8 +7,8 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: José A. Támara Fuentes # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: José Támara # Nombre completo
+  tagline: Software Engineer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
@@ -19,7 +19,7 @@ sidebar:
   github: jkzasori
   gitlab:
   bitbucket:
-  twitter: "@BrightCoders"
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -68,9 +68,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a System Engineer with a couples of years working like Developer.I realy like programaming and I am fascinated by all kind of Frontend either movil or web. I am a proactive, diligent and responsible person with a great disposition for teamwork. 
-
-    I'm also book lover (poetry, novels); I mean, i like to read and write these kind of text.
+    I am an experienced Software Developer with a track record of delivering innovative solutions. Currently working at Nokia, I utilize my skills in various programming languages and technologies to develop and maintain software. With over 5 years of experience in software development, I have a solid understanding of modern web development frameworks and technologies, particularly React.js and JavaScript. Proficient in Agile methodologies, I am able to work in a fast-paced and dynamic environment, effectively collaborating and problem-solving with cross-functional teams. Always seeking to learn and improve my skills, and drive projects to successful delivery.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -110,31 +108,31 @@ experiences:
     time: January 2021 - Present
     company: NOKIA
     details: |
-      In this company I have currently been working like Frontend developer with React And Redux responsible for maintenance, design, layout and programming of websites, including the entire process of service integration with the Backend.
+      I am a software developer at Nokia and I specialize in JavaScript, Typescript, HTML, CSS, and React.js. I have a good understanding of Agile methodologies and possess strong problem-solving skills. As part of my role, I participate in the full software development life cycle, collaborate with cross-functional teams, actively participate in code reviews and testing, and troubleshoot and resolve bugs. I am always learning and evaluating new frontend technologies to improve development efficiency. On a day-to-day basis, I work closely with cross-functional teams to design and develop new features, resolve bugs, and participate in code reviews and testing. I am dedicated to delivering high-quality solutions that meet the needs of our customers.
 
   - role: Frontend Developer
     time: March 2019 - Present
     company: LSV TECH SAS
     details: |
-      In this company I have currently been working like Frontend developer with Jinja, Angular, React And Redux responsible for maintenance, design, layout and programming of websites, including the entire process of service integration with the Backend.
+      In my role as a software developer at LSV Technologies, I designed, developed, and maintained advanced software systems utilizing my extensive skills and experience. My expertise includes being proficient in programming languages such as JavaScript and Python, as well as using frameworks like React.js and Django. I also have a strong understanding of Agile methodologies and can work effectively in cross-functional teams. Additionally, I have experience using Git for version control and collaboration and the ability to write clean, efficient, and maintainable code. As part of my responsibilities, I participated in the full software development life cycle, from requirements gathering to deployment and maintenance. I collaborated with cross-functional teams to define, design, and ship new features while troubleshooting and resolving bugs in a timely manner. Finally, I continuously discovered, evaluated, and implemented new technologies to maximize development efficiency.
 
   - role: Web Developer
     time: November 2018 – March 2019
-    company: SUPER CALL CENTER
+    company: SUPER TOURS
     details: |
-      In this periot of time I worked like administrator of digital sites, responsible for maintenance, design, layout and programming of websites in PHP.
+      In my role as a software developer at Super Tours, I utilized my skills in PHP, JavaScript, Doo Framework, CSS, and HTML to develop and maintain software systems that streamlined travel and tour operations. I am proficient in PHP, JavaScript, and Doo Framework for building dynamic and efficient back-end systems and have experience using HTML, CSS, and JavaScript for building user-friendly and responsive web interfaces. Additionally, I have experience using Git for version control and collaboration. My responsibilities at Super Tours included participating in the full software development life cycle, from requirements gathering to deployment and maintenance of software systems for travel and tour operations. I collaborated with cross-functional teams to define, design, and ship new features to the web application while troubleshooting and resolving bugs in a timely manner. I also maintained payment systems for tour bookings, built modules and maintained the website for tour bookings and information, and added new features and designs to the web application to improve user experience and functionality.
 
   - role: Web Developer
     time: August 2017 - September 2018
     company: Working like freelance
     details: |
-      In this periot of time I worked like freelance in diferent projects like administrator of digital sites, responsible for maintenance, design, layout and programming of websites.
+      During this period, I worked as a freelancer on various projects, serving as an administrator for digital sites. My responsibilities included website maintenance, design, layout, and programming.
 
   - role: Web Developer
     time: April 2017 - July 2017
     company: SIAECO
     details: |
-      In this periot of time I worked like administrator of digital sites, responsible for maintenance, design, layout and programming of websites in PHP.
+      As a software developer at SIAECO, I specialized in WordPress to develop and maintain web systems. My skills included proficiency in WordPress for building efficient websites, experience in HTML, CSS, and JavaScript for user-friendly web interfaces, and designing web interfaces. My responsibilities involved collaborating with cross-functional teams to define, design, and ship new features and design for WordPress-based websites. I was responsible for building and maintaining the company's websites using WordPress and designing responsive and user-friendly web interfaces to meet the company's needs.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -147,62 +145,65 @@ skills:
 
   toolset:
     - name: Node
-      level: 60%
+      level: 75%
 
     - name: Express
-      level: 55%
+      level: 65%
 
     - name: NoSQL
-      level: 60%
+      level: 65%
 
     - name: SQL
-      level: 60%
+      level: 65%
 
     - name: ReactNative
-      level: 70%
+      level: 75%
 
     - name: React
-      level: 80%
+      level: 90%
 
     - name: Redux
-      level: 80%
-
-    - name: Angular
-      level: 55%
+      level: 90%
 
     - name: FireBase
-      level: 40%
+      level: 60%
 
     - name: CSS
-      level: 80%
+      level: 90%
 
     - name: SASS
-      level: 80%
+      level: 90%
 
     - name: LESS
-      level: 80%
+      level: 90%
 
     - name: STYLUS
-      level: 80%
+      level: 90%
 
     - name: PUG
-      level: 40%
+      level: 70%
 
     - name: HTML
       level: 100%
 
-    - name: JS
-      level: 80%
+    - name: Python
+      level: 60%
+    
+    - name: DJango
+      level: 60%
 
-    - name: Jquery
+    - name: JavaScript
+      level: 80%
+    
+    - name: TypeScript
       level: 80%
 
     - name: Git/GitHub
       level: 80%
 
     - name: PHP
-      level: 40%
+      level: 60%
 
 # NO MODIFICAR
 footer: >
-  BrightCoders Academy
+  José Támara
